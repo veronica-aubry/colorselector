@@ -1,0 +1,35 @@
+.sliders p {
+	margin: 8px 0;
+	vertical-align: middle;
+}
+
+.sliders label {
+	display: inline-block;
+	margin: 0 10px 0 0;
+	width: 35px;
+	font-size: 14px;
+	color: #6D574E;
+}
+
+.sliders input {
+	position: relative;
+	top: 2px;
+}
+
+#newColor {
+width: 80px;
+height: 80px;
+border-radius: 3px;
+box-shadow: none;
+float: left;
+border: none;
+margin: 10px 20px 20px 10px;
+}
+
+.container {
+  background-color: white;
+  border-radius: 30px;
+  padding: 60px;
+  margin-top: 300px;
+  max-width: 400px;
+}
