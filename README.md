@@ -14,7 +14,7 @@ _Page background changes to reflect movement in the RGB slider!_
 
 * _Download all files_
 * _Open index.html in an internet browser_
-*_Drag around the sliders!_
+* _Drag around the sliders!_
 
 ## Technologies Used
 
